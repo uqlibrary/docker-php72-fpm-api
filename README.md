@@ -1,7 +1,7 @@
 docker-php72-fpm-api
 ====================
 
-This repository contains a Dockerfile of PHP 7.2 FPM for Docker's automated build published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
+This repository contains a Dockerfile of PHP 7.2 FPM (API variant) for Docker's automated build published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
 
 ### Installation
 
